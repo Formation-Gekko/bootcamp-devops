@@ -12,7 +12,7 @@
 
 ### Welcome
 
-_Dear all, welcome to the Gekko's Academy_ 👍
+_Dear all, welcome to the Gekko's Academy_ 
 _You like the challenge ?_
 _I propose you a  best BootCamp_
 _But first of all, I would like to get to know you_
