@@ -27,6 +27,7 @@ Author: Laurent Marques
      - Install des Tools (Git, Python, Dependance)
      - Les bases pour bien démarrer avec Git & Github
      - Install des tools de versionning :tada:
+     - Best Practices
   
   ---
 
