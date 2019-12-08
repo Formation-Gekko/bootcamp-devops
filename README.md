@@ -1,10 +1,8 @@
----
-
 # Formation Gekko
 
-Author: Laurent Marques
+>BootCamp Le 12/12/2020
 
->Use the same [HackMD](https://hackmd.io) supported markdown right in VSCode!
+Author: Laurent Marques
 
 ---
 
@@ -12,9 +10,14 @@ Author: Laurent Marques
 
 ---
 
-### Le programme
+### Welcome
 
->Le programme se déroulera sur une période de 4 semaine à 6h/jour
+_Dear all, welcome to the Gekko's Academy_ 👍
+_You like the challenge ?_
+_I propose you a  best BootCamp_
+_But first of all, I would like to get to know you_
+
+>The program will run over a period of 4 weeks at 6h/day
 
 ---
 
