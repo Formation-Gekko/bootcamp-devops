@@ -4,8 +4,6 @@
 |:------------:| ------ |:---------------:|
 | Presentation |        | Laurent Marques |
 
-Author: Laurent Marques
-
 ---
 
 ## LE BOOTCAMP
