@@ -1,11 +1,36 @@
-# The official HackMD Markdown VSCode extension
+---
 
-Use the same [HackMD](https://hackmd.io) supported markdown right in VSCode!
+# Formation Gekko
 
-## Features
+Author: Laurent Marques
 
-- HackMD-compatible markdown rendering preview
-  - We bring most HackMD markdown syntax into VSCode :tada:
+>Use the same [HackMD](https://hackmd.io) supported markdown right in VSCode!
+
+---
+
+## LE BOOTCAMP
+
+---
+
+### Le programme
+
+>Le programme se déroulera sur une période de 4 semaine à 6h/jour
+
+---
+
+#### **Semaine** 1
+
+##### **Jour 1**
+
+  1. **Mise en place**
+     - Préparation de l'environement du développeur
+     - Install des Tools (Git, Python, Dependance)
+     - Les bases pour bien démarrer avec Git & Github
+     - Install des tools de versionning :tada:
+  
+  ---
+
+  2. 
 
 #### Render codeblock with line numbers
 
