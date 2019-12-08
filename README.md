@@ -1,12 +1,10 @@
 # Formation Gekko
 
-|png|
-|---|
+|   BootCamp   | Update |     Authors     |
+|:------------:| ------ |:---------------:|
+| Presentation |        | Laurent Marques |
 
-| BootCamp |  Date Update  |     Author      |
-| -------- |:-------------:|:---------------:|
-| -------- | ------------- | Laurent Marques |
-
+Author: Laurent Marques
 
 ---
 
