@@ -1,6 +1,5 @@
-# Formation Gekko ! 
-
-<img src="images/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
+# |<img src="images/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">| Formation Gekko !
+|------|
 
 |   BootCamp   | Update |     Authors     |
 |:------------:| ------ |:---------------:|
